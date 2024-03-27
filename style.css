@@ -10,3 +10,7 @@ margin: 0;
 .cabecalho-imagem{
     width: 120px;
 }
+
+body{
+    background-color: blueviolet;
+}
